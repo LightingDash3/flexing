@@ -1,0 +1,14 @@
+.flex-container {
+    display: flex;
+    flex-direction: row;
+}
+.item {
+    order: 4;
+}
+    
+.flex-center{
+    justify-content: space-evenly;
+}
+.flex-space-between{
+    justify-content: space-evenly;
+}
